@@ -17,4 +17,10 @@ ___
 ___
 # UI Component Patterns
 #["Team Roles"]
+#Technology Stack
 ___
+Django: a web framework for building RESTful APIs
+#Database Design
+#Feature Breakdown
+#API Security
+#CI/CD Pipeline
